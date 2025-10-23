@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="synthetic_probe_day_start_ms" value="1761242755436" />
+    <boolean name="key_is_scar_enabled" value="false" />
+    <boolean name="IS_MAIN_PROFILE_SUPPORTED" value="false" />
+    <string name="adid_identifier">97c5aa18-69c7-42ff-ab5e-125bae173c13</string>
+    <string name="1980587926120476672clientEventNextSequenceNumber">SR0AAAGaEj+nHBsCflg=</string>
+    <string name="1980587926120476672ces_ee_pct_next_sequence_number">SR0AAAGaEkarEhoCWA==</string>
+    <string name="dark_mode_appearance">lights_out</string>
+    <string name="1980587926120476672pctSpanNextSequenceNumber">SRoCWA==</string>
+    <long name="current_user_id" value="1980587926120476672" />
+    <string name="client_uuid">bd47cdb0-5ea7-4bc4-b21c-61370852074f</string>
+    <long name="last_synthetic_probe_timestamp" value="1097359" />
+    <long name="htl_refresh_policy_app_background_time_millis" value="1761252561744" />
+    <int name="sync_check_recurrence_interval" value="1440" />
+    <string name="1980587926120476672ces_ee_cnre_next_sequence_number">SR0AAAGaEkKlwxoCWA==</string>
+    <boolean name="HAS_SENT_ONE_TIME_PREINSTALL" value="true" />
+    <boolean name="adid_no_tracking_enabled" value="false" />
+    <int name="app_usage_monitor_state" value="1" />
+    <boolean name="is_shutdown" value="false" />
+    <boolean name="has_completed_signin_flow" value="true" />
+    <long name="app_hardware_info_fatigue_last_active" value="1761242711003" />
+    <long name="cold_start_launch_time_millis" value="1761242710849" />
+    <long name="app_first_install_fatigue_last_active" value="1761242711001" />
+    <int name="log_failure_cnt" value="0" />
+    <set name="shutdown_allowed_urls">
+        <string>.*/1.1/guest/activate.json.*</string>
+        <string>.*/1.1/help/settings.json.*</string>
+        <string>.*/1.1/jot.*</string>
+        <string>.*/oauth2/token.*</string>
+    </set>
+    <long name="app_usage_monitor_update_ts" value="1761253044200" />
+    <boolean name="key_is_scar_for_spotlight_enabled" value="false" />
+    <boolean name="IS_HIGH_PROFILE_SUPPORTED" value="false" />
+    <long name="app_usage_monitor_start_ts" value="1761242710881" />
+    <boolean name="alt_text_prompt" value="false" />
+    <string name="att">1-90xgX6DQ5iGBP7J0MCHBygLSu8a3TRP511RUjtw6</string>
+    <int name="CODEC_OS_VERSION_KEY" value="34" />
+    <string name="1980587926120476672ces_ee_cnoe_next_sequence_number">SR0AAAGaEj+wBBobWA==</string>
+    <long name="hashflag_last_fetch_time" value="1761251711" />
+    <int name="app_hardware_info_fatigue_amount" value="1" />
+    <long name="app_background_time_millis" value="1761252561731" />
+    <int name="shutdown_min_version" value="0" />
+    <long name="feature_timestamp_v2_0" value="1761242711791" />
+    <string name="0clientEventNextSequenceNumber">SR0AAAGaEj8DbBoqWA==</string>
+    <boolean name="notification_permission_checked" value="true" />
+    <string name="DECODER_MAX">SQgBEQlY</string>
+    <long name="feature_timestamp_v2_1980587926120476672" value="1761242753320" />
+    <long name="preload_last_shown" value="1761242710974" />
+    <int name="app_first_install_fatigue_amount" value="1" />
+    <long name="synthetic_probe_bytes_received" value="60" />
+    <long name="become_inactive_timestamp" value="1761252561728" />
+    <string name="kdt">mB9vMBQNvnEFqKHnQABqnAUFsP0BszH9UzuvamN0</string>
+    <int name="preload_number_of_times_shown" value="1" />
+    <string name="trusted_device_id">d7ef0de1-36cf-4f38-9213-890a27f85a8b</string>
+</map>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="com.google.firebase.perf.NetworkRequestSamplingRate" value="2790850577269160983" />
+    <boolean name="com.google.firebase.perf.ExperimentTTID" value="true" />
+    <boolean name="com.google.firebase.perf.SdkEnabled" value="true" />
+    <long name="com.google.firebase.perf.TraceSamplingRate" value="4574192010334039736" />
+    <boolean name="isEnabled" value="true" />
+    <string name="com.google.firebase.perf.SdkDisabledVersions"></string>
+    <long name="com.google.firebase.perf.SessionSamplingRate" value="1" />
+</map>

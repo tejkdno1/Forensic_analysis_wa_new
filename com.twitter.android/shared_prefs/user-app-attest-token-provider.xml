@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="OS_VERSION_PREF_KEY">14</string>
+    <int name="BUILD_VERSION_PREF_KEY" value="0" />
+</map>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="android.permission.READ_MEDIA_VIDEO" value="1" />
+    <int name="android.permission.READ_MEDIA_IMAGES" value="1" />
+    <int name="android.permission.POST_NOTIFICATIONS" value="3" />
+</map>

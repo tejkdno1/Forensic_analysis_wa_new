@@ -1,0 +1,6 @@
+2025/10/23-19:08:37.202 1e08 Creating DB /data/user/0/com.twitter.android/app_webview/Default/IndexedDB/https_x.com_0.indexeddb.leveldb since it was missing.
+2025/10/23-19:08:37.204 1e08 Reusing MANIFEST /data/user/0/com.twitter.android/app_webview/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/23-21:39:48.612 1e08 Level-0 table #5: started
+2025/10/23-21:39:48.614 1e08 Level-0 table #5: 1265 bytes OK
+2025/10/23-21:39:48.615 1e08 Delete type=0 #3
+2025/10/23-21:39:48.616 1e08 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

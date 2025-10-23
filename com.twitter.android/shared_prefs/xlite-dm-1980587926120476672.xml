@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="last-jwt-connection-token">eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJYIiwic3ViIjoiMTk4MDU4NzkyNjEyMDQ3NjY3MiIsImV4cCI6IjE3NjEyNTIzNTciLCJuYmYiOiIxNzYxMjUyMDU3IiwiZGlkIjoiYzBmOTA1ZTUwNWRkMWJhMCIsInVhIjoiVHdpdHRlckFuZHJvaWRcLzExLjMwLjAtcmVsZWFzZS4wICgzMTEzMDAwMDAtci0wKSBzZGtfZ3Bob25lNjRfYXJtNjRcLzE0IChHb29nbGU7c2RrX2dwaG9uZTY0X2FybTY0O2dvb2dsZTtzZGtfZ3Bob25lNjRfYXJtNjQ7MDs7MTsyMDEzKSJ9.uHabyOWM4D8MKaPv3qblqA3iVz2gtabkiAsQZgpFGbY</string>
+    <boolean name="has_message_requests" value="false" />
+    <int name="message_pull_version" value="0" />
+</map>
