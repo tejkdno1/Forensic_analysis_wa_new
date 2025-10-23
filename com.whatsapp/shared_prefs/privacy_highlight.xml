@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="golden_box_group">1,0,0</string>
+    <string name="chats_list">9,0,0</string>
+    <string name="golden_box_contact">5,0,0</string>
+    <string name="calling_screen_audio">1,0,0</string>
+</map>

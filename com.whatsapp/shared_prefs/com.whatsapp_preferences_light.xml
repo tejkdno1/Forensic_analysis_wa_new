@@ -1,0 +1,370 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="pref_my_profile_links_last_sync_time" value="1761242860116" />
+    <long name="last_read_conversation_time" value="1761254947837" />
+    <boolean name="future_proof_processing_needed" value="false" />
+    <boolean name="saved_gcm_token_server_unreg" value="true" />
+    <long name="xmpp:lifecycle_worker_runtime_seconds" value="240" />
+    <boolean name="pref_wa_old_for_uc" value="false" />
+    <string name="previous_registration_screen">home</string>
+    <int name="registration_voice_code_length" value="6" />
+    <string name="self_lid">178138801766543@lid</string>
+    <string name="ka_key_store_static_alias_suffix">48c835df-36a3-492b-ab73-f6cd4e107a60</string>
+    <int name="reg_attempts_check_exist" value="1" />
+    <boolean name="community_get_subgroups_sync_key" value="false" />
+    <long name="qpl_last_upload_ts" value="1761252030179" />
+    <int name="c2dm_app_vers" value="253170010" />
+    <long name="ka_retried_ts" value="1761242824" />
+    <boolean name="md_messaging_enabled" value="true" />
+    <long name="phoneid_timestamp" value="1761242708543" />
+    <int name="connection_lc" value="7" />
+    <boolean name="newsletter_subscriptions_fetched" value="true" />
+    <boolean name="tos_2016_opt_out_state" value="false" />
+    <int name="pref_gpia_prepare_call_count_in_last_interval" value="1" />
+    <long name="next_daily_cron_catchup" value="1761243609649" />
+    <int name="privacy_status" value="0" />
+    <long name="sticker_store_last_fetch_time" value="1761242714533" />
+    <int name="reg_skip_storage_perm" value="0" />
+    <boolean name="silent_auth_verification_status" value="false" />
+    <long name="pref_last_gpia_prepare_call_timestamp" value="1761242820847" />
+    <int name="privacy_setting_messages_brigading" value="0" />
+    <long name="ka_refresh_ts" value="1761242825" />
+    <int name="notification_channels_schema_version" value="2" />
+    <string name="pref_email_otp_status">email_otp_not_eligible</string>
+    <long name="live_location_sharing_session_start_time" value="0" />
+    <boolean name="refresh_broadcast_lists" value="false" />
+    <boolean name="clean_up_discovery_stickers_from_internal_storage" value="true" />
+    <boolean name="spam_banned" value="false" />
+    <boolean name="server_invite_otp_consumed" value="false" />
+    <boolean name="is_last_video_autoplay_mute" value="true" />
+    <long name="app_background_time" value="1254259" />
+    <long name="push:most_recent_push_received_ts" value="1761251856280" />
+    <string name="pref_client_auth_token">L213MQAB+MuxxaqwwVwdJATHrGFeyiPuDxix36uOKV0pCEsNX2t0GSPfrXhoEa+0CXoU9SRaVjVre01nZgbEAaioSQHA4Q3Qa6R6VJ3Im/MehYcBMx/kCvxFQFRiuuDkFJYKlxuTDUDQDoEX+nqtabca640+Ufk</string>
+    <long name="last_heartbeat_login" value="1761231113504" />
+    <int name="number_of_inactive_accounts" value="0" />
+    <long name="last_daily_event" value="1761243610447" />
+    <boolean name="settings_verification_email_address_confirmed" value="false" />
+    <boolean name="is_chat_list_suggestions_dismissed" value="true" />
+    <long name="dithered_last_signed_prekey_rotation" value="1758753439515" />
+    <string name="random_integrity_log_string">roptk7b61FU3hRBHKwr4EHEYscGKiXxx</string>
+    <string name="pref_autoconf_feo2_query_status">error_security_exception</string>
+    <boolean name="media_quality_has_send_media" value="true" />
+    <int name="phonebook_null_cursor_count" value="0" />
+    <string name="downloadable_category_local_info_json_filter">{&quot;name&quot;:&quot;filter&quot;,&quot;bundles&quot;:{&quot;-1&quot;:&quot;YHbwxhPS2U4WtSgbh9e47EKR_cmhYwWErgJoiPpIzuQ&quot;}}</string>
+    <long name="adv_last_daily_check_ts" value="1761242858241" />
+    <string name="push:push_pkey_data">[2,&quot;STKP1wgmeoTjKjSYgCZN4k7XflCQsNr3o7P9nzQQH18&quot;,&quot;cPsT+jDuiIOz\/jmm+SicoA&quot;,&quot;jWxUQQ&quot;,&quot;P5XJC2qVawaJ4sKgZJaG7g&quot;]</string>
+    <long name="last_chat_list_wallpaper_logged_millis" value="1761242858084" />
+    <long name="md_initial_sync_estimate_bytes" value="0" />
+    <string name="registration_push_notif_code">YsgTqyjlK5s=</string>
+    <long name="pref_last_updated_imagine_edit_styles_ts" value="1761251704983" />
+    <int name="pref_send_sms_eligibility" value="0" />
+    <string name="cc">353</string>
+    <int name="group_join_request_startup_sync_count" value="1" />
+    <long name="registration_initialized_time" value="1761242857077" />
+    <boolean name="report_unhealthy_module" value="true" />
+    <string name="ka_key_store_dynamic_alias_suffix">6177b7c4-0e75-49f7-bb70-6e964c2689a2</string>
+    <int name="pref_wa_old_eligibility" value="0" />
+    <long name="text_to_voice_animation_timestamp" value="1761254940407" />
+    <string name="external_storage_type">scoped</string>
+    <boolean name="settings_verification_email_address_verified" value="false" />
+    <long name="privacy_token_last_batch_time_sec" value="1761251745" />
+    <string name="encrypted_rid">ARdqB6MpkZNq7SUC8Fjd27wiEnSdlLUX9AF9f2Fzc5zZJca3VL1ROJ8syZ0GWEX4hBSymf1cb2kT+DO5</string>
+    <int name="flash_modes_count0" value="1" />
+    <boolean name="underage_account_banned" value="false" />
+    <int name="logins_with_messages" value="0" />
+    <int name="privacy_groupadd" value="0" />
+    <long name="phoneid_last_sync_timestamp" value="1761243609763" />
+    <string name="perf_device_id">d9c9d590-2113-4ae0-92e4-9256b9ea1b61</string>
+    <long name="music_eligible_countries_last_sync_timestamp" value="1761251745128" />
+    <string name="downloadable_category_local_info_json_manifest">{&quot;name&quot;:&quot;manifest&quot;,&quot;locale_lang&quot;:&quot;en&quot;,&quot;bundles&quot;:{&quot;-1&quot;:&quot;Ifaxxcj2WwEvs2TmT3H3qF3cD6u7wisq4HWYqIquiRY&quot;}}</string>
+    <int name="num_notification_channels_created" value="3" />
+    <long name="registration_success_time_ms" value="1761242858247" />
+    <string name="previous_registration_action">view</string>
+    <long name="last_login_time" value="1761255209" />
+    <boolean name="archive_v2_enabled" value="true" />
+    <int name="pref_autoconf_verification_status" value="-1" />
+    <long name="ka_stanza_sent_ts" value="1761242825" />
+    <string name="backup_token_retrieval_error">null_token</string>
+    <boolean name="is_chrome_device_cached" value="false" />
+    <int name="foldable_min_display_height" value="2340" />
+    <string name="sticker_store_etag">591683654d25c6f14f3214363a9cdc64</string>
+    <long name="wa_last_reminder_timestamp" value="1761242840548" />
+    <long name="xmpp:logout_worker_runtime_seconds" value="0" />
+    <boolean name="signal_protocol_store_is_new" value="false" />
+    <int name="push:recent_push_transport" value="0" />
+    <long name="last_exit_reason_sync_timestamp" value="1761251723101" />
+    <int name="privacy_online" value="0" />
+    <int name="foldable_min_display_width" value="1080" />
+    <long name="client_version_upgrade_timestamp" value="1761242714491" />
+    <string name="my_current_status">This is a test bio</string>
+    <string name="web_contact_checksum">PElcOE89z9SmFtW9&#10;    </string>
+    <long name="live_location_sharing_session_total_time" value="0" />
+    <long name="push:push_pkey_generate_ts" value="1761251696191" />
+    <long name="last_app_open_timestamp" value="1761251726967" />
+    <long name="sticker_store_backoff_time" value="0" />
+    <string name="pref_imagine_edit_styles_locale">en_US</string>
+    <long name="block_list_receive_time" value="1761255241393" />
+    <string name="last_datacenter">cln</string>
+    <long name="autoconf_cf_last_ping" value="1761251745077" />
+    <boolean name="need_to_get_pre_key_digest" value="false" />
+    <int name="privacy_stickers" value="1" />
+    <long name="push:recent_push_ts" value="1761251818695" />
+    <boolean name="registration_biz_registered_on_device" value="false" />
+    <long name="ka_static_refresh_ts" value="1761242711" />
+    <int name="expressions_tray_peek_height_portrait" value="789" />
+    <long name="live_location_sharing_session_end_time" value="0" />
+    <int name="sticker_store_backoff_attempt" value="0" />
+    <boolean name="pref_onboarding_incomplete_notif_scheduled" value="false" />
+    <boolean name="notify_new_message_for_archived_chats" value="false" />
+    <long name="backup_token_file_timestamp" value="1761242858490" />
+    <int name="registration_sms_code_length" value="6" />
+    <string name="settings_verification_email_address"></string>
+    <string name="ai_session_id">3bc3480e-8e6b-4fb3-895f-e2c09206bf50</string>
+    <int name="privacy_profile_photo" value="0" />
+    <int name="privacy_last_seen" value="0" />
+    <int name="wa_dictionary_version" value="3" />
+    <boolean name="input_enter_send" value="false" />
+    <set name="pref_music_eligible_countries">
+        <string>PR</string>
+        <string>PS</string>
+        <string>PT</string>
+        <string>PW</string>
+        <string>PY</string>
+        <string>QA</string>
+        <string>AE</string>
+        <string>AF</string>
+        <string>AG</string>
+        <string>AI</string>
+        <string>AL</string>
+        <string>AM</string>
+        <string>AO</string>
+        <string>AR</string>
+        <string>AS</string>
+        <string>RE</string>
+        <string>AT</string>
+        <string>AU</string>
+        <string>AW</string>
+        <string>RO</string>
+        <string>BA</string>
+        <string>BB</string>
+        <string>RS</string>
+        <string>BD</string>
+        <string>BE</string>
+        <string>RU</string>
+        <string>BF</string>
+        <string>RW</string>
+        <string>BG</string>
+        <string>BJ</string>
+        <string>BL</string>
+        <string>BM</string>
+        <string>BN</string>
+        <string>BO</string>
+        <string>SA</string>
+        <string>SB</string>
+        <string>BR</string>
+        <string>SC</string>
+        <string>BS</string>
+        <string>SE</string>
+        <string>SG</string>
+        <string>BW</string>
+        <string>SH</string>
+        <string>SJ</string>
+        <string>SK</string>
+        <string>BZ</string>
+        <string>SM</string>
+        <string>SN</string>
+        <string>CA</string>
+        <string>SR</string>
+        <string>CC</string>
+        <string>SV</string>
+        <string>CH</string>
+        <string>SX</string>
+        <string>SZ</string>
+        <string>CK</string>
+        <string>CL</string>
+        <string>CM</string>
+        <string>CO</string>
+        <string>CR</string>
+        <string>TC</string>
+        <string>TF</string>
+        <string>CV</string>
+        <string>TG</string>
+        <string>TH</string>
+        <string>CW</string>
+        <string>CX</string>
+        <string>CY</string>
+        <string>TJ</string>
+        <string>CZ</string>
+        <string>TK</string>
+        <string>TM</string>
+        <string>TN</string>
+        <string>TO</string>
+        <string>TR</string>
+        <string>TT</string>
+        <string>DE</string>
+        <string>TV</string>
+        <string>TW</string>
+        <string>TZ</string>
+        <string>DK</string>
+        <string>DM</string>
+        <string>DO</string>
+        <string>UA</string>
+        <string>UG</string>
+        <string>DZ</string>
+        <string>US</string>
+        <string>EC</string>
+        <string>EE</string>
+        <string>EG</string>
+        <string>UY</string>
+        <string>UZ</string>
+        <string>VA</string>
+        <string>VC</string>
+        <string>ES</string>
+        <string>VE</string>
+        <string>VI</string>
+        <string>VN</string>
+        <string>VU</string>
+        <string>FI</string>
+        <string>FJ</string>
+        <string>FK</string>
+        <string>FM</string>
+        <string>FO</string>
+        <string>FR</string>
+        <string>WF</string>
+        <string>GB</string>
+        <string>WS</string>
+        <string>GD</string>
+        <string>GE</string>
+        <string>GF</string>
+        <string>GG</string>
+        <string>GH</string>
+        <string>GI</string>
+        <string>GL</string>
+        <string>GN</string>
+        <string>GP</string>
+        <string>GR</string>
+        <string>GS</string>
+        <string>GT</string>
+        <string>GU</string>
+        <string>GY</string>
+        <string>XK</string>
+        <string>HK</string>
+        <string>HM</string>
+        <string>HN</string>
+        <string>HR</string>
+        <string>YE</string>
+        <string>HU</string>
+        <string>YT</string>
+        <string>ID</string>
+        <string>IE</string>
+        <string>IL</string>
+        <string>IM</string>
+        <string>IN</string>
+        <string>IO</string>
+        <string>ZA</string>
+        <string>IQ</string>
+        <string>IS</string>
+        <string>IT</string>
+        <string>ZM</string>
+        <string>JE</string>
+        <string>ZW</string>
+        <string>JM</string>
+        <string>JO</string>
+        <string>JP</string>
+        <string>KE</string>
+        <string>KG</string>
+        <string>KH</string>
+        <string>KI</string>
+        <string>KN</string>
+        <string>KR</string>
+        <string>KW</string>
+        <string>KY</string>
+        <string>KZ</string>
+        <string>LA</string>
+        <string>LB</string>
+        <string>LC</string>
+        <string>LI</string>
+        <string>LK</string>
+        <string>LS</string>
+        <string>LT</string>
+        <string>LU</string>
+        <string>LV</string>
+        <string>LY</string>
+        <string>MA</string>
+        <string>MC</string>
+        <string>ME</string>
+        <string>MF</string>
+        <string>MH</string>
+        <string>MK</string>
+        <string>ML</string>
+        <string>MN</string>
+        <string>MO</string>
+        <string>MP</string>
+        <string>MQ</string>
+        <string>MS</string>
+        <string>MT</string>
+        <string>MW</string>
+        <string>MX</string>
+        <string>MY</string>
+        <string>MZ</string>
+        <string>NA</string>
+        <string>NF</string>
+        <string>NG</string>
+        <string>NI</string>
+        <string>NL</string>
+        <string>NO</string>
+        <string>NP</string>
+        <string>NR</string>
+        <string>NU</string>
+        <string>NZ</string>
+        <string>OM</string>
+        <string>PA</string>
+        <string>PE</string>
+        <string>PF</string>
+        <string>PG</string>
+        <string>PH</string>
+        <string>PK</string>
+        <string>PL</string>
+        <string>PM</string>
+        <string>PN</string>
+    </set>
+    <int name="privacy_calladd" value="0" />
+    <string name="current_message_id">AC20025B46C564F1F6219BA87D592A09</string>
+    <int name="more_sheep_random_number" value="153" />
+    <int name="privacy_profile_links" value="1" />
+    <boolean name="pref_enter_phone_number_notif_scheduled" value="false" />
+    <int name="number_of_process_starts" value="2" />
+    <string name="upload_token_random_bytes">83ObaWFiIw/eGgMAFTbnI5/dBZbSptt/nRBx8A19hdI</string>
+    <string name="block_list_v2_dhash">1761255249212505</string>
+    <string name="c2dm_reg_id">fHxpJtvHSQuqYRVX1l3uNt:APA91bEIEj0Yv86fHjTeaeWGRQvCwhBBvV7Xm68mSrivsZ42TF68E5vbiB3BTYeu4ggP_NY7DRRRpvLbpzi3yYwsRiTjt5k5Jy44wtQuNa3X7FpEsvrvOQ4</string>
+    <string name="pref_primary_flash_call_status">primary_eligible</string>
+    <boolean name="read_receipts_enabled" value="true" />
+    <int name="pref_email_otp_eligibility" value="0" />
+    <string name="registration_jid">353833643173</string>
+    <string name="pref_autoconf_status">autoconf_verifier_creation_failed</string>
+    <string name="routing_info">CAkIDQ</string>
+    <long name="next_randomized_daily_cron" value="1761338144035" />
+    <string name="bot_entry_point">FAVICON</string>
+    <long name="privacy_token_batch_offset_sec" value="390592" />
+    <boolean name="pref_unread_message_clear_notification" value="false" />
+    <long name="downloadable_manifest_last_fetched_time_millis" value="1761251703043" />
+    <boolean name="reg_abprop_passkey_create_education_screen" value="true" />
+    <int name="sharing_shortcuts_version" value="1" />
+    <string name="phoneid_id">ab00d580-467d-4f1f-8dbe-21ef5283cd20</string>
+    <long name="calling_privacy_last_unknown_caller_stats_millis" value="1761251744793" />
+    <int name="connection_sequence_attempts" value="0" />
+    <boolean name="new_jid" value="false" />
+    <string name="com.whatsapp.registration.RegisterPhone.mistyped_state">7</string>
+    <boolean name="reg_abprop_passkey_create" value="true" />
+    <long name="last_daily_cron" value="1761243611244" />
+    <long name="status_tab_last_opened_time" value="1761254934284" />
+    <int name="reg_attempts_generate_code" value="1" />
+    <int name="current_data_action_string_version" value="4" />
+    <int name="notification_channel_upgrade_version" value="1" />
+    <string name="ph">833643173</string>
+    <string name="pref_imagine_edit_styles">{&quot;styles&quot;:[{&quot;prompt&quot;:&quot;Change the style of the image to 3D&quot;,&quot;short_prompt&quot;:&quot;3D&quot;,&quot;image_uri&quot;:&quot;https:\/\/mmg.whatsapp.net\/m1\/v\/t0.79107-24\/An-JvyQ8jd7vtgqFqocyKWFQ6yfgQsJuQHIj-HQeTFeEwZL4rmqT0kQSAlB-tohxVJmlsmqKwwYDYtTuciVX5h3FzHSj7Nw1FHmUR6BKdLkPt0YscpDsVOc?_nc_gid=OCQC2NrRjCejB1aIRGvbYA&amp;_nc_oc=Adnr9_nO8rcJWfbyfkL8U0dRPyRWaJcHsRs1mSEQatCvVUE3fQ_JIs__6vK4liqksKw&amp;ccb=10-5&amp;oh=01_Q5Aa2wG1ySdjpyWAIklLbhes49TjPjmHXsiorZru5BNG-u85Ww&amp;oe=68FC652F&amp;_nc_sid=b69478&quot;},{&quot;prompt&quot;:&quot;Change the style of the image to Comic Book&quot;,&quot;short_prompt&quot;:&quot;Comic Book&quot;,&quot;image_uri&quot;:&quot;https:\/\/mmg.whatsapp.net\/m1\/v\/t0.79107-24\/An84CBdUHixgN_Dhlh6YNp1WS1gLW1qjTycibgP9w_4FbPI559ywyEOfoCt-TtypNEX0Pj8VRap3zc-ncxAMxEEQ-5ZpG5DAsZVh-OG8f9-AH0qMxQN26w?_nc_gid=OCQC2NrRjCejB1aIRGvbYA&amp;_nc_oc=AdlxnD-h-TtICs287DA_Dir-dK6br32FudbZchfiToWAXFZgyXwAaFj7Y-psrkCRJOU&amp;ccb=10-5&amp;oh=01_Q5Aa2wFlqiI8txzocUFmMSEv8EI-96lwAaplPMWsI_DnOTbQQw&amp;oe=68FC7EEA&amp;_nc_sid=b69478&quot;},{&quot;prompt&quot;:&quot;Change the style of the image to Anime&quot;,&quot;short_prompt&quot;:&quot;Anime&quot;,&quot;image_uri&quot;:&quot;https:\/\/mmg.whatsapp.net\/m1\/v\/t0.79107-24\/An9Ay4u9aQN44QEmDC8OrBhOdKtGWvZVlJjvf1jHuvGr3BkMn8mwgz2O0zkgRFIoOo5A37RnBjo7nHrWi9XNePwJ1jr4EwB5zFk3eEyGnrD2zrsNVK8I1UU?_nc_gid=OCQC2NrRjCejB1aIRGvbYA&amp;_nc_oc=Adm9v-v8mBxeSridct5YAE0Cfp8mgkrBgK45ED6UwjfLqdIgsOdY97Brhnaovi0A9EY&amp;ccb=10-5&amp;oh=01_Q5Aa2wFBA0oKYppzzBvcO3QEdWU0GLbIeFW2rV4tU1SJD2b6lQ&amp;oe=68FC5F9F&amp;_nc_sid=b69478&quot;},{&quot;prompt&quot;:&quot;Change the style of the image to classical&quot;,&quot;short_prompt&quot;:&quot;Classical&quot;,&quot;image_uri&quot;:&quot;https:\/\/mmg.whatsapp.net\/m1\/v\/t0.79107-24\/An98-4AQtCQKEkHg_1HzFxu2sbRW5q8ZiGjaqakqpaV4XdulS9XTgxpM4z15mpWwzaXQMQ_ofhd0No7fb22lxersxfjYfHY7J0Ei-uBw9lYev9xGqb6DMA4?_nc_gid=OCQC2NrRjCejB1aIRGvbYA&amp;_nc_oc=AdnJ5VJTqtV7Eys4oYT72VJMTLisXvPJbEQnUdfiO_jQYkGu8qjAn4yENFStURTYxJQ&amp;ccb=10-5&amp;oh=01_Q5Aa2wESTP5iKIugz-pqN_4hH5UP0k_mqvAHiXq1cKnLfp9bzA&amp;oe=68FC62A8&amp;_nc_sid=b69478&quot;},{&quot;prompt&quot;:&quot;Change the style of the image to clay&quot;,&quot;short_prompt&quot;:&quot;Clay&quot;,&quot;image_uri&quot;:&quot;https:\/\/mmg.whatsapp.net\/m1\/v\/t0.79107-24\/An-LAvfZczwU3qUhoXiimri5VFXseU9unNQJM_hmZovmCatviR2PP4_RmorasQVCTXWd2cLOEbBIic7ZIZD4at5bNk41OZwPG_I9b0T6A0N6P6sEOdR7DA?_nc_gid=OCQC2NrRjCejB1aIRGvbYA&amp;_nc_oc=Adl1kjj0JaKcSEV1la3TWvCnOorFliVPrfOJQab5Bc4I9zSDX1akpBG0aDnuVVBOZeM&amp;ccb=10-5&amp;oh=01_Q5Aa2wEkwRkDn_GBQlHf8lI_EAhZDvi2tQzUD6AVQVsXjJvC2w&amp;oe=68FC6624&amp;_nc_sid=b69478&quot;},{&quot;prompt&quot;:&quot;Change the style of the image to felt&quot;,&quot;short_prompt&quot;:&quot;Felt&quot;,&quot;image_uri&quot;:&quot;https:\/\/mmg.whatsapp.net\/m1\/v\/t0.79107-24\/An8woRL-qI31s52doijO5vUpLIAq9IR9nL7dIOVwSaLYLzYxreCHfw3kfCG4uVU-sVCGRULvOXU8cTKvohf6qWsiaLpDR7lpfenAdCZLZqolNVY7hv04qpo?_nc_gid=OCQC2NrRjCejB1aIRGvbYA&amp;_nc_oc=AdmyxH32auTi7dVWHJxSHlb3MjOIkHDU7WUPJC8PK1bGc0ayze5K-ANKS29LBUdvpx4&amp;ccb=10-5&amp;oh=01_Q5Aa2wFO-hHzPA15L6ke72x1QVDziJ2thJm0b9OSjGQobhmVwQ&amp;oe=68FC89D4&amp;_nc_sid=b69478&quot;},{&quot;prompt&quot;:&quot;Change the style of the image to Futuristic&quot;,&quot;short_prompt&quot;:&quot;Futuristic&quot;,&quot;image_uri&quot;:&quot;https:\/\/mmg.whatsapp.net\/m1\/v\/t0.79107-24\/An-VoNqKLdRuM0zrk4hh0qe1ksmKDHe7FNeV1MCpuqcoWD5QXbwixg_ksZCWnxFLOSQy9_DjGKzb5YXBxXXoNw1s9_2psx8AAb1DJz0jDD-lkAnzLWuw8HA?_nc_gid=OCQC2NrRjCejB1aIRGvbYA&amp;_nc_oc=AdkXXl7VNJG-WIZif6NZp3KvswpnAxT9_sNDwXEEZDbWpMU861gzOn2aR-QGGx5ij3Y&amp;ccb=10-5&amp;oh=01_Q5Aa2wE6GMChiFs51E6E-_SjNzSNVsVUNgCEcy_x0xZ0QU8AXQ&amp;oe=68FC69E9&amp;_nc_sid=b69478&quot;},{&quot;prompt&quot;:&quot;Change the style of the image to kawaii&quot;,&quot;short_prompt&quot;:&quot;Kawaii&quot;,&quot;image_uri&quot;:&quot;https:\/\/mmg.whatsapp.net\/m1\/v\/t0.79107-24\/An9QMiZ4brA6fCpv-l3LZQxEJNlH3Q2ZL6dIHDI3wDWQ6mL53z9pd7eIe43Jg8xA1p4E714m-HUGKhwVRw5fKP1hIjlnIGORZv1oNEKALGCxk2jvOAdhQ7I?_nc_gid=OCQC2NrRjCejB1aIRGvbYA&amp;_nc_oc=AdlcPptZRwr_nUhsnmwBxyofSD15lROImyrZempWc-oqUqB1P1ag9_FmFGm7o4d8CIo&amp;ccb=10-5&amp;oh=01_Q5Aa2wHUDefwk2SCNrZr-tefCI7WWCKBM-0FyejMNMUFL_Wc1w&amp;oe=68FC78C4&amp;_nc_sid=b69478&quot;},{&quot;prompt&quot;:&quot;Change the style of the image to a painting&quot;,&quot;short_prompt&quot;:&quot;Painting&quot;,&quot;image_uri&quot;:&quot;https:\/\/mmg.whatsapp.net\/m1\/v\/t0.79107-24\/An8FdMpcMH7-rMXIJnOM5d1PY2NrZOLvbSPvfBuugVIJ5I7n5098t5fe9X1woXlIksOzcAKofsHKs3P_QklanIu6RXQ4MuKtthi88Fc8R7HZxZE5RWH5Xg?_nc_gid=OCQC2NrRjCejB1aIRGvbYA&amp;_nc_oc=AdlQTIlosI7xvOsS_I2ZZ2nZyq15T1cUvvc0hmgHlaxLRlYqwzWEfXQ-iF2gPXSG7Ac&amp;ccb=10-5&amp;oh=01_Q5Aa2wEgSSsdAWCX3kcKxcHmUOhAT1FjbPMi2aGKRUysWdH0qg&amp;oe=68FC5C66&amp;_nc_sid=b69478&quot;},{&quot;prompt&quot;:&quot;Change the style of the image to video game&quot;,&quot;short_prompt&quot;:&quot;Video Game&quot;,&quot;image_uri&quot;:&quot;https:\/\/mmg.whatsapp.net\/m1\/v\/t0.79107-24\/An-uZwBc2JfEPCpUEZuMqr1qW9a-l4q0wbYSqvFCRli4qAeqPTZIiCYwj7QWXLuH9GNpuLy7n8yRs6-fapIKhcKJZAkFjnGvX4J8JYZrFVi2G_62uK_T5w?_nc_gid=OCQC2NrRjCejB1aIRGvbYA&amp;_nc_oc=AdmdQNTeY57izGq63NBTU-POEJJt3DtI-i2BgV7Uskd66qFIwky7gF9wXZbFhOZ_5vE&amp;ccb=10-5&amp;oh=01_Q5Aa2wEIqvncD6qduIsh0oQk6q4apoKhXdYJo2j-f2mFIAoFUA&amp;oe=68FC7C5B&amp;_nc_sid=b69478&quot;}]}</string>
+    <int name="foldable_max_display_width" value="1080" />
+    <long name="spam_banned_expiry_timestamp" value="0" />
+    <int name="external_dir_migration_stage" value="5" />
+    <int name="foldable_max_display_height" value="2340" />
+</map>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="eviction.v2/-402314780">{&quot;size_config&quot;:{&quot;max_size&quot;:1048576,&quot;max_size_low_space_bytes&quot;:512000,&quot;max_size_very_low_space_bytes&quot;:512000,&quot;delete_only_on_init&quot;:false,&quot;is_itemized&quot;:true},&quot;staleness_config&quot;:{&quot;stale_age_s&quot;:2419200,&quot;is_itemized&quot;:true},&quot;eviction_type&quot;:&quot;stash&quot;,&quot;cache_name&quot;:&quot;android_wa_user_visitation&quot;,&quot;feature_name&quot;:&quot;android_wa_user_visitation&quot;,&quot;path&quot;:&quot;\/data\/data\/com.whatsapp\/cache\/wa4a_user_visitation&quot;}</string>
+</map>

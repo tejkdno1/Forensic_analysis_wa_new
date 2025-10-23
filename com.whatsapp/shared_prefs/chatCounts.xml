@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="918073092734@s.whatsapp.net_notification">null,1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null</string>
+    <string name="918073092734@s.whatsapp.net_discovery">whatsapp,global_search_new_chat</string>
+    <string name="918073092734@s.whatsapp.net_integrity">0,null,true,0,null</string>
+    <string name="919148016901@s.whatsapp.net_notification">null,5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null</string>
+    <string name="120363421847528720@g.us_actions">0,null,null,null,null,null,null,false</string>
+    <string name="919148016901@s.whatsapp.net_actions">0,null,null,null,null,null,null,true</string>
+    <string name="89051851915278@lid_voip">1,0,0,0,1,0,1,0,0,0,0</string>
+    <string name="13135550002@s.whatsapp.net_commerce">null,false,false,null,false,null,null,null,null,null</string>
+    <string name="13135550002@s.whatsapp.net">1,6,0,0,0,0,0,null,null,null,null,null,null,false,0,null,false,null,null,null,null,null,null,null,null,0,0,0,0,0,0,1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,7,null,null,null,null,null,null,null,null,null,null,null,null,true,null,null,null,null,null,null,null,null,null</string>
+    <long name="start_time_ms" value="1761178566269" />
+    <string name="353833643173@s.whatsapp.net_actions">0,null,null,null,null,null,null,false</string>
+    <string name="13135550002@s.whatsapp.net_messageFromAgent">6</string>
+    <string name="0002@s.whatsapp.net;messagesReadWithDeltaTime">0:2025-10-22=5</string>
+    <string name="13135550002@s.whatsapp.net_messageToAgent">1</string>
+    <string name="120363421847528720@g.us">0,0,0,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,0,0,0,0,0,0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null</string>
+    <string name="thread_user_secret">C/H7cxSdnVThhx2syZSjuVJYUIn+UhSZYeuNZO1fAfY=</string>
+    <string name="919148016901@s.whatsapp.net_commerce">null,false,false,null,false,null,null,null,null,null</string>
+    <string name="13135550002@s.whatsapp.net_actions">0,null,5,5,null,null,null,false</string>
+    <string name="918073092734@s.whatsapp.net">1,0,0,0,0,0,0,null,null,null,null,null,null,false,null,null,true,null,null,null,null,null,null,null,null,0,0,0,0,0,0,1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,false,null,null,null,null,null,null,null,null,null</string>
+    <string name="120363421847528720@g.us_notification">null,1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null</string>
+    <string name="13135550002@s.whatsapp.net_notification">null,1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null</string>
+    <string name="919148016901@s.whatsapp.net">5,0,0,0,0,0,0,2,null,null,null,null,null,false,0,null,true,null,null,null,null,null,null,null,null,0,0,0,0,0,0,1,null,null,null,4,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,0,null,null,null,null,null,null,null,null,null,null,null,null,false,null,null,null,null,null,null,null,null,null</string>
+    <string name="918073092734@s.whatsapp.net_actions">0,null,null,null,null,null,null,true</string>
+    <string name="918073092734@s.whatsapp.net_commerce">null,false,false,null,false,null,null,null,null,null</string>
+</map>

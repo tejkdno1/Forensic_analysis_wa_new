@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="last_ntp_client_time" value="1761251729692" />
+    <boolean name="async_tasks_pending_for_version_change" value="false" />
+    <long name="last_contact_full_sync" value="1761242841289" />
+    <boolean name="app_lock_auth_needed" value="true" />
+    <long name="updates_tab_last_visit_timestamp_ms" value="1761254934298" />
+    <boolean name="run_on_connect_tasks_for_version_change" value="false" />
+    <boolean name="force_db_check" value="false" />
+    <int name="most_recent_navigated_to_home_tab_id" value="200" />
+    <int name="year_class_cached_value_pref" value="2012" />
+    <int name="startup_migrated_version" value="19" />
+    <int name="profile_photo_full_id" value="1991457991" />
+    <boolean name="bonsai_meta_ai_shortcut_tos_accepted" value="true" />
+    <string name="version">2.25.31.70</string>
+    <long name="client_server_time_diff" value="-3000" />
+    <long name="meta_ai_upsell_last_animation_timestamp_ms" value="1761251729768" />
+    <int name="year_class_cached_value_2016_pref" value="2013" />
+    <int name="profile_photo_thumb_id" value="1991457991" />
+    <long name="client_ntp_time_diff" value="457" />
+    <int name="registration_state" value="3" />
+    <string name="pref_device_type">Foldable</string>
+    <int name="meta_ai_upsell_animation_count" value="2" />
+    <boolean name="force_backup_check" value="true" />
+    <string name="push_name">Test Account</string>
+</map>

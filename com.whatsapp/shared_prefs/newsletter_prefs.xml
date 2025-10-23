@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="newsletter_message_received" value="false" />
+    <int name="newsletter_migrated_version" value="2" />
+    <boolean name="newsletter_my_reactions_fetched" value="true" />
+</map>

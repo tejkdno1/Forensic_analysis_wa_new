@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="audio_native_sampling_rate" value="44100" />
+    <int name="end_call_tone_duration_ms" value="561" />
+    <string name="end_call_tone_duration_last_cached_app_version">2.25.31.70</string>
+    <boolean name="screen_sharing_backward_compat_shown" value="false" />
+</map>

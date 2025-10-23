@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="two_factor_auth_email_set" value="2" />
+    <string name="file_date">20251023</string>
+    <string name="ab_props:hash_v2">[2,&quot;9L6vZ78bf4AWaj2BLJGcEjkXQBWoxgilXkM3Ij1wdhV3dt57Toy74mqKgDD982TUouMeWm63eKWgfste4Yx5Ng&quot;,&quot;tNVAieFbRxwAoFWfSWSpjQ&quot;,&quot;9YwgYg&quot;,&quot;yvea5+BkrrVn6U7kzICKTw&quot;]</string>
+    <int name="perform_sync_manager_version" value="3" />
+    <set name="ab_offline_props:offline_exposure_strings">
+        <string>android_offline_edge_to_edge_support_100_prod_universe|android_prod_100_offline_edge_to_edge_support_experiment|test</string>
+        <string>blue_revocation_warning_enabled_release_universe|blue_revocation_warning_enabled_release_experiment|control</string>
+        <string>android_offline_dummy_aa_experiment_for_early_fetch|android_offline_dummy_aa_experiment_for_early_fetch_exp|test</string>
+    </set>
+    <string name="thread_id_start_times">1761178566269</string>
+    <set name="ab_offline_props:offline_exposure_hash_strings">
+        <string>8658|android_offline_edge_to_edge_support_100_prod_universe</string>
+        <string>740|blue_revocation_warning_enabled_release_universe</string>
+        <string>6662|android_offline_dummy_aa_experiment_for_early_fetch</string>
+    </set>
+    <int name="file_index" value="1" />
+</map>

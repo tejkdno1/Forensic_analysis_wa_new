@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="pref_wa_old_eligible" value="0" />
+    <int name="reg_migrated_version" value="17" />
+    <string name="token_used_during_reg">5U5o1mS9q/5B+68HG9d2RD9uS1c</string>
+    <string name="passkey_create_challenge">{&quot;attestation&quot;:&quot;none&quot;,&quot;authenticatorSelection&quot;:{&quot;authenticatorAttachment&quot;:&quot;platform&quot;,&quot;requireResidentKey&quot;:true,&quot;residentKey&quot;:&quot;required&quot;,&quot;userVerification&quot;:&quot;required&quot;},&quot;challenge&quot;:&quot;2OmXiCEpEd2BAxmHp6ePZsmPN1KEKKccXs-FZKCSDvw&quot;,&quot;excludeCredentials&quot;:[],&quot;extensions&quot;:{&quot;credProps&quot;:true,&quot;prf&quot;:{},&quot;uvm&quot;:true},&quot;pubKeyCredParams&quot;:[{&quot;alg&quot;:-7,&quot;type&quot;:&quot;public-key&quot;},{&quot;alg&quot;:-257,&quot;type&quot;:&quot;public-key&quot;}],&quot;rp&quot;:{&quot;id&quot;:&quot;whatsapp.com&quot;,&quot;name&quot;:&quot;WhatsApp&quot;},&quot;timeout&quot;:600000,&quot;user&quot;:{&quot;displayName&quot;:&quot;********3173&quot;,&quot;id&quot;:&quot;gd_VwCazOWUDsoBBM-mTNQ&quot;,&quot;name&quot;:&quot;********3173&quot;}}</string>
+    <string name="registration_failure_reason"></string>
+    <int name="autoconf_cf_type" value="1" />
+    <string name="access_session_id">96327dfb-8969-4055-a41f-b88730a771f3</string>
+    <boolean name="pref_use_phone_number_token_key" value="true" />
+    <string name="token_used_for_migration">rO0ABXNyACdjb20ud2hhdHNhcHAuaW5mcmEuY2FjaGVzLnV0aWwuTFJVQ2FjaGUAAAAEtmxA6QIAAUkACmNhY2hlTGltaXR4cgAXamF2YS51dGlsLkxpbmtlZEhhc2hNYXA0wE5cEGzA+wIAAVoAC2FjY2Vzc09yZGVyeHIAEWphdmEudXRpbC5IYXNoTWFwBQfawcMWYNEDAAJGAApsb2FkRmFjdG9ySQAJdGhyZXNob2xkeHA/QAAAAAAADHcIAAAAEAAAAAF0AA0zNTM6ODMzNjQzMTczdXIAAltCrPMX+AYIVOACAAB4cAAAACoAAm/BvrJRVCBhH4hzzECcjeDdVBd5je7OeA5uKC0lrfSbRSpEVCJ9YrB4AQAAAAU</string>
+    <string name="pref_previous_screen">finishing_setup</string>
+    <boolean name="android_id_set" value="true" />
+    <int name="autoconf_type" value="1" />
+    <string name="reg_passkey_info_list">[]</string>
+</map>

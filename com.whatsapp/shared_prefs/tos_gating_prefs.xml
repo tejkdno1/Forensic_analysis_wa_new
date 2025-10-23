@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="tos_last_refresh_timestamp_20210210" value="1761242825227" />
+    <int name="tos_acceptance_state_20250211" value="1" />
+    <long name="tos_last_refresh_timestamp_20250211" value="1761255219748" />
+    <long name="request_refresh_rate_seconds" value="864000000" />
+    <int name="tos_acceptance_state_20210210" value="1" />
+</map>

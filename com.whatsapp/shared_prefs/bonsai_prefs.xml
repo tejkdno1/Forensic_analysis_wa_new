@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ai_shortcut_accepted_notice_id" value="20250211" />
+    <boolean name="ai_inline_tos_rendered" value="true" />
+    <int name="ai_entry_point_AI_PRIVACY_TOS" value="20241016" />
+</map>

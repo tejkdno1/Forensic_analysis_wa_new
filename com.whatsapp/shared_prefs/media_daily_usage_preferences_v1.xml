@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="1761177600000_2_1_1_false">{&quot;bytesSent&quot;:4186,&quot;bytesReceived&quot;:0,&quot;countMessageSent&quot;:1,&quot;countMessageReceived&quot;:0,&quot;countUploaded&quot;:1,&quot;countDownloaded&quot;:0,&quot;countForward&quot;:0,&quot;countShared&quot;:0,&quot;countViewed&quot;:0,&quot;transferDate&quot;:1761177600000,&quot;mediaType&quot;:2,&quot;transferRadio&quot;:1,&quot;mediaTransferOrigin&quot;:1,&quot;isAutoDownload&quot;:false}</string>
+    <boolean name="has_migrated_to_db" value="true" />
+</map>

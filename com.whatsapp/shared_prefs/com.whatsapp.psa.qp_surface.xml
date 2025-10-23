@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="1706372730309524/lastImpressionTime" value="1761255145040" />
+    <long name="12235/lastImpressionForSurface" value="1761255145040" />
+    <long name="1866541530548513/eligibilityDurationAfterFirstImpression" value="1761242862279" />
+    <long name="1866541530548513/lastImpressionTime" value="1761242862279" />
+    <long name="1706372730309524/eligibilityDurationAfterFirstImpression" value="1761255145040" />
+    <int name="1866541530548513/impressionCount" value="1" />
+    <long name="12198/lastImpressionForSurface" value="1761242862279" />
+    <string name="12198/lastQPForImpressionForSurface">1866541530548513</string>
+    <int name="1706372730309524/impressionCount" value="1" />
+    <string name="12235/lastQPForImpressionForSurface">1706372730309524</string>
+</map>
